@@ -24,7 +24,7 @@ Olá, visitante 👽! Sejam bem-vindos(as)! Espero que a sua jornada até aqui t
    - Edite o arquivo "README.md" em seu repositório.
    - Utilize a linguagem Markdown para formatar informações sobre o desafio, instruções e uma breve descrição do seu projeto.
 
-<center> <h2> Ao Infinito e Além: 🚀</h2></center>
+<center><h2> Ao Infinito e Além: 🚀</h2></center>
 
 <center><img src="https://i.pinimg.com/originals/6b/7e/d3/6b7ed39c3751c92df2d3ece16a329925.gif")</img> </center>
 
