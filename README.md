@@ -5,7 +5,7 @@ Espero que sua jornada até aqui tenha sido de grandes aprendizados e agora para
 
 Objetivos:
 
-0. Ciar sua conta no Github, ela será essêncial para os nossos objetivos.
+0. Criar sua conta no Github, ela será essêncial para os nossos objetivos.
 
 1. Crie um Repositório:
 - Crie um novo repositório no GitHub. Nomeie-o como "Desafio-GitHub-Markdown".
