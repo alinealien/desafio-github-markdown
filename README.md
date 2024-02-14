@@ -1,4 +1,4 @@
-Desafio de Projeto: Git & GitHub - Explorando Colaboração e Markdown
+# Desafio de Projeto: Git & GitHub - Explorando Colaboração e Markdown
 
 Olá, visitante 👽! Sejam bem-vindos(as)! Espero que a sua jornada até aqui tenha sido repleta de grandes aprendizados. Agora, para testarmos tudo o que aprendemos sobre o Git e GitHub, seus processos de colaboração e a incrível linguagem Markdown 💞, proponho a vocês um super desafio. Vamos então entender o que teremos que fazer?
 
@@ -22,7 +22,7 @@ Olá, visitante 👽! Sejam bem-vindos(as)! Espero que a sua jornada até aqui t
    - Edite o arquivo "README.md" em seu repositório.
    - Utilize a linguagem Markdown para formatar informações sobre o desafio, instruções e uma breve descrição do seu projeto.
 
-**Ao Infinito e Além:**
+### **Ao Infinito e Além:**
 
 Como desafio extra, sugiro que vocês se autentiquem utilizando algum método de segurança oferecido pelo Github, afinal, segurança é fundamental 🔒.
 
