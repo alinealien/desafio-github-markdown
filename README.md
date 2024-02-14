@@ -1,4 +1,6 @@
-# Desafio de Projeto: Git & GitHub - Explorando Colaboração e Markdown
+# Git & GitHub - Explorando Colaboração e Markdown
+
+>> DESAFIO DE PROJETO
 
 Olá, visitante 👽! Sejam bem-vindos(as)! Espero que a sua jornada até aqui tenha sido repleta de grandes aprendizados. Agora, para testarmos tudo o que aprendemos sobre o Git e GitHub, seus processos de colaboração e a incrível linguagem Markdown 💞, proponho a vocês um super desafio. Vamos então entender o que teremos que fazer?
 
